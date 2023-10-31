@@ -7,6 +7,7 @@ export const styles = StyleSheet.create({
     alignItems: "center",
     marginBottom: 10,
     gap: 20,
+    overflow: "scroll",
   },
   name: {
     display: "flex",
